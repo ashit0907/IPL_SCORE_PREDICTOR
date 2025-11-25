@@ -7,6 +7,10 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pkl
 .Python
 build/
 develop-eggs/
